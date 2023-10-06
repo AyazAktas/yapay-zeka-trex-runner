@@ -1,7 +1,7 @@
 
 # Yapay Zekaya Trex Runner Oyununu Oynatmak
 
-[![Uygulamanın videosunu izlemek için tıkla !](Trex Game Kapak.jpeg)](https://www.youtube.com/watch?v=video_id)
+[![Uygulamanın videosunu izlemek için tıkla !](Trex Game Kapak.png)](https://www.youtube.com/watch?v=video_id)
 
 
 Bu proje, "T-Rex Runner" adlı tarayıcı oyununu otomatik olarak oynamak ve yapay zeka modeli kullanarak oyunun en iyi hareketlerini tahmin etmek için geliştirilmiştir. Aynı zamanda, gerçek zamanlı olarak ekran görüntüsü kaydetmek ve bu kayıtları kullanarak modeli eğitmek için de kullanılır.
