@@ -1,6 +1,9 @@
 
 # Yapay Zekaya Trex Runner Oyununu Oynatmak
 
+[![Uygulamanın videosunu izlemek için tıkla !](.jpeg)](https://www.youtube.com/watch?v=video_id)
+
+
 Bu proje, "T-Rex Runner" adlı tarayıcı oyununu otomatik olarak oynamak ve yapay zeka modeli kullanarak oyunun en iyi hareketlerini tahmin etmek için geliştirilmiştir. Aynı zamanda, gerçek zamanlı olarak ekran görüntüsü kaydetmek ve bu kayıtları kullanarak modeli eğitmek için de kullanılır.
 
 ## Kullanım
@@ -30,7 +33,6 @@ Bu projeyi kullanmak için aşağıdaki adımları takip edebilirsiniz:
 - Bu kod, oyununuzu otomatik olarak oynamak için tasarlanmıştır. Ancak bu tür otomasyonun oyunun sağlayıcıları veya hükümleri ile uyumlu olup olmadığını kontrol etmek önemlidir. Kullanım koşullarını ihlal etmemeye dikkat edin.
 - Eğitilmiş yapay zeka modeli (`model_new.json` ve `trex_weight.h5`) olmadan oyunu otomatik olarak oynatmanın anlamı yoktur. Bu modeli oluşturmak ve eğitmek için veri toplama adımlarını izleyin.
 
-## Daha fazla Proje için [Web Sitemi Ziyaret edin](https://ayazaktas.netlify.app)
 
 
 ## Bağımlılıkların Kurulumu
@@ -50,7 +52,7 @@ Projenin düzgün çalışabilmesi için aşağıdaki Python bağımlılıkları
 Bağımlılıkları yüklemek için yukarıdaki komutları kullanarak, projeyi sorunsuz bir şekilde çalıştırabilirsiniz. Ayrıca, projenizi çalıştırmadan önce Python'unuzun güncel olduğundan emin olun.
 
 
-
+## Daha fazla Proje için [Web Sitemi Ziyaret edin](https://ayazaktas.netlify.app)
 
 
 ## Lisans
